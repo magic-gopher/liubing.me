@@ -1,10 +1,9 @@
 ---
 index: false
 toc: false
-dir:
-  order: 5
+containerClass: article-container
 ---
 
-# Prettier
+# 自部署
 
 <Catalog />
