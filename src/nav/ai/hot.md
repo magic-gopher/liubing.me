@@ -17,8 +17,8 @@ containerClass: nav-container
 
 - icon: '@websites/monica.png'
   name: Monica
-  desc: 一个浏览器插件免费使用ChatGPT AI。
-  link: https://monica.im/?c=TLSPHTIY
+  desc: 一站式AI助手，个性化，便捷，免费。
+  link: https://monica.im/invitation?c=TLSPHTIY
 
 - icon: '@websites/new-bing.png'
   name: New Bing 新必应
@@ -64,6 +64,11 @@ containerClass: nav-container
   name: Stable Diffusion Online
   desc: 免登录即可使用的免费强大在线Stable Diffusion。
   link: https://stablediffusionweb.com/
+
+- icon: '@websites/kimi.ico'
+  name: Kimi.ai
+  desc: Kimi 是一个有着超大“内存”的智能助手。
+  link: https://kimi.moonshot.cn/
 ```
 
 :::
